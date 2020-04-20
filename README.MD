@@ -18,3 +18,7 @@ LICENCIA: Información de licencia estándar del MIT.
 SN74HC595.pdf: hoja de datos del registro de desplazamiento para referencia.
 
 IMAGEN: fotos del proyecto
+
+Electronic SpaceX
+
+Link del video: https://www.youtube.com/watch?v=nnhX0I4LgqE
